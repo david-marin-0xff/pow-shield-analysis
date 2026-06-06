@@ -279,23 +279,4 @@ This section will evolve as understanding of PoW-Shield improves.
 
 ---
 
-# Study Log
 
-## Session 1
-
-Date:
-
-Notes:
-
-- Created analysis repository.
-- Reviewed project description.
-- Established initial understanding of architecture.
-- Created list of research questions.
-
-Next Steps:
-
-- Examine repository structure.
-- Identify entry point.
-- Trace request flow.
-- Locate proof-of-work implementation.
-- 
